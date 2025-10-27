@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<streamingi>
 <platforma>
    <nazwa>Netflix</nazwa>
    <Rok_zalozenia>1997</Rok_zalozenia>
@@ -41,3 +41,4 @@
    <Cena>29.99</Cena>
    <Siedziba>USA</Siedziba>
 </platforma>
+</streamingi>
