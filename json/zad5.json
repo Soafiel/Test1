@@ -1,0 +1,44 @@
+[
+    {
+        "nazwaPlatformy": "Netflix",
+        "czyPlatny": true,
+        "liczbaFilmow": 2317,
+        "popularneSeriale": ["Black Rabbit", "1670", "Żmijowisko"],
+        "siedziba": "Los Gatos"
+    },
+    {
+        "nazwaPlatformy": "HBO Max",
+        "czyPlatny": true,
+        "liczbaFilmow": 2140,
+        "popularneSeriale": ["The Last of Us", "Gra o tron", "Sukcesja"],
+        "siedziba": "Nowy Jork"
+    },
+    {
+        "nazwaPlatformy": "Prime Video",
+        "czyPlatny": true,
+        "liczbaFilmow": 2700,
+        "popularneSeriale": ["The Last of Us", "1670", "Good Doctors"],
+        "siedziba": "Seattle"
+    },
+    {
+        "nazwaPlatformy": "Disney +",
+        "czyPlatny": true,
+        "liczbaFilmow": 2500,
+        "popularneSeriale": ["You", "Mandalorian", "Vampire Diaries"],
+        "siedziba": "Burbunk"
+    },
+    {
+        "nazwaPlatformy": "Canal + Online",
+        "czyPlatny": true,
+        "liczbaFilmow": 3200,
+        "popularneSeriale": ["Ukryta Prawda", "Szkoła", "M jak miłość"],
+        "siedziba": "Warszawa"
+    },
+    {
+        "nazwaPlatformy": "Player",
+        "czyPlatny": true,
+        "liczbaFilmow": 1970,
+        "popularneSeriale": ["Szpital", "Klan", "Barwy Szczęścia"],
+        "siedziba": "Warszawa"
+    }
+]
