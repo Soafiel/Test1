@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<platforma>
+    <nazwa Jezyk="Angielski" Spolszczony="Nie">Netflix</nazwa>
+    <Cena darmowe="nie" waluta="PLN">39.99</Cena>
+    <Rok_Powstania wiek="XX" przed_2000="tak">1997</Rok_Powstania>
+    <Siedziba czy_w_polsce="nie" czy_USA="tak">USA</Siedziba>
+</platforma>
+
+<platforma>
+    <nazwa Jezyk="Angielski" Spolszczony="Nie">Disney+</nazwa>
+    <Cena darmowe="nie" waluta="PLN">49.99</Cena>
+    <Rok_Powstania wiek="XXI" przed_2000="nie">2006</Rok_Powstania>
+    <Siedziba czy_w_polsce="nie" czy_USA="tak">USA</Siedziba>
+</platforma>
+
+<platforma>
+    <nazwa Jezyk="Angielski" Spolszczony="Nie">HBO MAX</nazwa>
+    <Cena darmowe="nie" waluta="PLN">39.99</Cena>
+    <Rok_Powstania wiek="XXI" przed_2000="nie">2020</Rok_Powstania>
+    <Siedziba czy_w_polsce="nie" czy_USA="tak">USA</Siedziba>
+</platforma>
+
+<platforma>
+    <nazwa Jezyk="Angielski" Spolszczony="Nie">Amazon Prime Video</nazwa>
+    <Cena darmowe="nie" waluta="PLN">9.99</Cena>
+    <Rok_Powstania wiek="XXI" przed_2000="nie">2006</Rok_Powstania>
+    <Siedziba czy_w_polsce="nie" czy_USA="tak">USA</Siedziba>
+</platforma>
+
+<platforma>
+    <nazwa Jezyk="Angielski" Spolszczony="Nie">Hulu</nazwa>
+    <Cena darmowe="nie" waluta="PLN">49.99</Cena>
+    <Rok_Powstania wiek="XX" przed_2000="tak">1999</Rok_Powstania>
+    <Siedziba czy_w_polsce="nie" czy_USA="tak">USA</Siedziba>
+</platforma>
+
+<platforma>
+    <nazwa Jezyk="Angielski" Spolszczony="Nie">Apple TV+</nazwa>
+    <Cena darmowe="nie" waluta="PLN">49.99</Cena>
+    <Rok_Powstania wiek="XXI" przed_2000="nie">2019</Rok_Powstania>
+    <Siedziba czy_w_polsce="nie" czy_USA="tak">USA</Siedziba>
+</platforma>
