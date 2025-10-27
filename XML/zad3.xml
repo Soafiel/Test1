@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<streamingi>
 <platforma>
     <nazwa Jezyk="Angielski" Spolszczony="Nie">Netflix</nazwa>
     <Cena darmowe="nie" waluta="PLN">39.99</Cena>
@@ -41,3 +41,4 @@
     <Rok_Powstania wiek="XXI" przed_2000="nie">2019</Rok_Powstania>
     <Siedziba czy_w_polsce="nie" czy_USA="tak">USA</Siedziba>
 </platforma>
+</streamingi>
