@@ -32,3 +32,8 @@ Tabela przedstawiona poniżej zawiera powszechne i latwo dostepne informacje na 
 | Spotify   | Audio | 696 mln     | Nie             |
 | Tiktok    | Rolki | 1,5 mld     | Nie             |
 
+### Obrazy  
+![Netflix](https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940)
+![TikTok](https://t4.ftcdn.net/jpg/15/35/65/19/360_F_1535651940_vg2Yd6yUBMgpL49j6H9FTK7Y111hHCmk.jpg)
+![Spotify](./IMG/spotify.jpg)
+
