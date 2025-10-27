@@ -1,0 +1,16 @@
+[
+{
+    "nazwaPlatformy": "Netflix",
+    "rokPowstania": 1997,
+    "czyPlatny": true,
+    "przychodyWMiliardach": 33.7,
+    "popularneFilmy": ["Furioza", "Vinci 2", "Shrek", "Fight Club"],
+    "liczbaAktualnychUzytkownikowWMilionach": 300,
+    "abonamenty": {
+        "podstawowy": "33PLN na miesiac",
+        "standard": "49PLN na miesiac",
+        "premium": "67PLN na miesiac"
+    },
+    "dostepnyWPolsce": true
+}
+]
