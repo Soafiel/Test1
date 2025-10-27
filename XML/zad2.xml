@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<platforma>
+   <nazwa>Netflix</nazwa>
+   <Rok_zalozenia>1997</Rok_zalozenia>
+   <Cena>39.99</Cena>
+   <Siedziba>USA</Siedziba>
+</platforma>
+
+<platforma>
+   <nazwa>Disney+</nazwa>
+   <Rok_zalozenia>2019</Rok_zalozenia>
+   <Cena>49.99</Cena>
+   <Siedziba>USA</Siedziba>
+</platforma>
+
+<platforma>
+   <nazwa>HBO MAX</nazwa>
+   <Rok_zalozenia>2020</Rok_zalozenia>
+   <Cena>39.99</Cena>
+   <Siedziba>USA</Siedziba>
+</platforma>
+
+<platforma>
+   <nazwa>Amazon Prime</nazwa>
+   <Rok_zalozenia>2006</Rok_zalozenia>
+   <Cena>9.99</Cena>
+   <Siedziba>USA</Siedziba>
+</platforma>
+
+<platforma>
+   <nazwa>Hulu</nazwa>
+   <Rok_zalozenia>2007</Rok_zalozenia>
+   <Cena>19.99</Cena>
+   <Siedziba>USA</Siedziba>
+</platforma>
+
+<platforma>
+   <nazwa>Apple TV+</nazwa>
+   <Rok_zalozenia>2019</Rok_zalozenia>
+   <Cena>29.99</Cena>
+   <Siedziba>USA</Siedziba>
+</platforma>
